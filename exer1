@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+      <head>
+            <title>Sign up page</title>
+          <style type="text/css">
+              body{
+                  
+                  background-color: bisque;
+              }
+          
+          </style>
+          
+      </head>
+            <body>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="200px" height="150px">
+                <img src="29120.jpg" align="right" width="500px" height="350px">
+                <p><strong><ins>Welcome to sign in page:</ins></strong></p>
+               <p> User name: <input type="text"></p> 
+               <p>password: <input type="password"></p>
+                <p>Remember me <input type="checkbox" checked> <input type="submit"</p>
+                <p><b><u>Dont have an Account please sign up</u></b> </p>
+                <p>First Name: <input type="text"></p>
+                <p>Last Name: <input type="text"></p>
+                <p>Email Address:<input type="text"></p>
+                <p>Address:<input type="text"></p>
+                <p>password:<input type="password"></p>
+                <p>confirm Password:<input type="password"></p>
+                <p>
+                Please select:
+                    <select>
+                    <option>school</option>
+                        <option>college</option>
+                        <option>office</option>
+                        <option>others</option>
+                    
+                    </select>
+                
+                
+                </p>
+                <p><input type="submit"></p>
+                
+            </body>
+
+
+</html>
